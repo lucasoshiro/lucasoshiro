@@ -1,6 +1,6 @@
 ### Hello, stalker 👀
 
-I'm Lucas Seiki Oshiro, but you call me whatever you want.
+I'm Lucas Seiki Oshiro, but you can call me whatever you want.
 
 This profile may be a little bit messy... Some of the repos here are cool side projects, some are related to my university, and some are forks. So, if you are interested about what I've done, I really suggest you to check out my personal page:
 

@@ -9,6 +9,8 @@ This profile may be a little bit messy... Some of the repos here are cool side p
 
 I try to keep that page regularly updated with interesting things that I'm doing and learning.
 
+If you are interesting in my experience and skills, you can check [my detailed resume](https://lucasoshiro.github.io/cv-en/).
+
 Here are some fancy statistics about my GitHub profile, but I don't care too much about them:
 
 <div>
